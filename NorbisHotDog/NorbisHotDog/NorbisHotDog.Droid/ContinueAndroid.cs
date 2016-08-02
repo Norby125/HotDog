@@ -24,7 +24,10 @@ namespace NorbisHotDog.Droid
 
         public void StartIntent()
         {
-            var intent=new Intent(Android.App.Application.Context, typeof(HotDogMenuActivity));
+            
+            var context = Android.App.Application.Context;
+            var type = typeof(HotDogMenuActivity);
+            var intent = new Intent(context, typeof(HotDogMenuActivity));
             StartActivity(intent);
         }
     }

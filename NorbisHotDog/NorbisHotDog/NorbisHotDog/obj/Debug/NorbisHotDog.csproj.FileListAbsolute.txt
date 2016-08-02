@@ -33,3 +33,17 @@ C:\Users\Norby\documents\visual studio 2015\Projects\NorbisHotDog\NorbisHotDog\N
 C:\Users\Norby\documents\visual studio 2015\Projects\NorbisHotDog\NorbisHotDog\NorbisHotDog\bin\Debug\NorbisHotDog.dll.mdb
 C:\Users\Norby\documents\visual studio 2015\Projects\NorbisHotDog\NorbisHotDog\NorbisHotDog\obj\Debug\NorbisHotDog.dll.mdb
 C:\Users\Norby\documents\visual studio 2015\Projects\NorbisHotDog\NorbisHotDog\NorbisHotDog\bin\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\obj\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\bin\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\obj\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\bin\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\obj\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\bin\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\obj\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\bin\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\obj\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\bin\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\obj\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\bin\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\obj\Debug\NorbisHotDog.dll.mdb
+C:\Users\Norby\Source\Repos\HotDog\NorbisHotDog\NorbisHotDog\NorbisHotDog\bin\Debug\NorbisHotDog.dll.mdb
